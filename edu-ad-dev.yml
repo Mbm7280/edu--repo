@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://124.222.74.204/edu_ad?
+    url: jdbc:mysql://124.222.74.204:3306/edu_ad?
 useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     username: root
     password: admin
